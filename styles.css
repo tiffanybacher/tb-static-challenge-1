@@ -1,0 +1,199 @@
+/* BODY STYLES */
+
+body {
+  color: #555;
+  font-family: 'Open Sans', sans-serif;
+  font-size: .9em;
+  margin: 0px auto;
+  max-width: 1200px;
+  min-width: 650px;
+}
+
+h1 {
+  bottom: 20px;
+  font-family: 'Bitter', serif;
+  font-size: 2.8em;
+  font-weight: 700;
+  margin: 0px;
+  position: absolute;
+  right: 65px;
+}
+
+h2 {
+  font-size: 2.4em;
+  margin: 0px 0px 20px 10px;
+}
+
+h3 {
+  font-size: .8em;
+  margin: 0px;
+}
+
+h4 {
+  font-size: 1.8em;
+  margin: 0px;
+}
+
+h5 {
+  font-size: 1.1em;
+  margin: 15px 0px 15px 0px;
+}
+
+li {
+  display: inline;
+  list-style: none;
+}
+
+a {
+  color: #999;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #59dbe0;
+}
+
+a:active {
+  color: #fff;
+}
+
+/* HEADER STYLES */
+
+nav {
+  background-color: #2b2b2b;
+  color: #fff;
+  height: 80px;
+  padding: 20px;
+  position: relative;
+}
+
+a.admin-item {
+  color: #59dbe0;
+  font-size: .8em;
+}
+
+a.admin-item:hover {
+  color: #fff;
+}
+
+.admin-dropdown {
+  margin: 0px;
+  padding: 0px;
+}
+
+.admin-item {
+  position: absolute;
+}
+
+.admin-txt {
+  top: 15px;
+  right: 40px;
+}
+
+.admin-icon-1 {
+  top: 13px;
+  right: 140px;
+}
+
+.admin-icon-2 {
+  top: 17px;
+  right: 20px;
+}
+
+.sort-down:hover {
+  border: 1px #fff;
+}
+
+.nav-list {
+  margin: 55px 0px 10px 0px;
+  padding: 0px;
+}
+
+.nav-li {
+  padding: 0px 5px 0px 0px;
+}
+
+.li-2, .li-4, .li-6 {
+  padding: 0px 40px 0px 0px;
+}
+
+.ribbon-icon {
+  position: absolute;
+  right: 20px;
+  bottom: 30px;
+}
+
+/* MAIN STYLES */
+
+main {
+  background-color: #eee;
+  min-height: 1000px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+.card-div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* CARD STYLES */
+
+.card {
+  background-color: #fff;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .2);
+  margin: 10px;
+  position: relative;
+  width: 275px;
+}
+
+.card-img {
+  width: 100%;
+/*  background: linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),
+    url("images/portrait-1-crop.jpg");*/
+  }
+
+.card-icon {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.card-icon:hover {
+  width: 50px;
+}
+
+.views-header {
+  color: #fff;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.view-count-display {
+  color: #fff;
+  position: absolute;
+  top: 20px;
+  right: 11px;
+}
+
+.card-text {
+  padding:0px 20px 20px;
+}
+
+.card-link-div {
+  background-color: #eee;
+  margin: 0px 0px 20px 0px;
+  padding: 10px;
+}
+
+.card-link {
+  font-size: .8em;
+  overflow-wrap: break-word;
+}
+
+.attatchment-display {
+  color: #59dbe0;
+}
