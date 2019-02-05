@@ -6,11 +6,11 @@ The motivation behind this project is to refine my HTML and CSS skills.
 
 ## Screenshots
 
-###A screenshot of the design comp
+### A screenshot of the design comp
 ![Comp Screenshot](https://imgur.com/7kSzYfX.png "Comp Screenshot")
 
-###A screenshot of my coded page
+### A screenshot of my coded page
 ![My Screenshot](https://imgur.com/8x2y0UT.png "Comp Screenshot")
 
-##Credits
+## Credits
 [Project assignment from Turing School of Software and Design](http://frontend.turing.io/projects/m1-static-comp-1.html)
